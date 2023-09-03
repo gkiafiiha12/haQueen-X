@@ -15,16 +15,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['+94740575395'] //ur owner number
-global.ownername = "©ᴋɪɴɢ_ʜᴀꜱɪʏᴀ-ᴡᴀᴛꜱᴀᴘᴘ_ᴜꜱᴇʀ_ʙᴏᴛ" //ur owner name
+global.owner = ['+94776224396'] //ur owner number
+global.ownername = "©ᴋɪɴɢ_PAMINDU-ᴡᴀᴛꜱᴀᴘᴘ_ᴜꜱᴇʀ_ʙᴏᴛ" //ur owner name
 global.ytname = "BOTLAB GROUP LINK" //ur yt chanel name
 global.socialm = "👸🏻CONTRACT NUMBER 👸🏻" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "+94740575395" //ur number
-global.premium = ['+94740575395'] //ur premium number
-global.botname = '©ᴋɪɴɢ_ʜᴀꜱɪʏᴀ-ᴡᴀᴛꜱᴀᴘᴘ_ᴜꜱᴇʀ_ʙᴏᴛ' //ur bot name
+global.ownernomer = "+94776224396" //ur number
+global.premium = ['+94776224396'] //ur premium number
+global.botname = '©ᴋɪɴɢ_PAMINDU-ᴡᴀᴛꜱᴀᴘᴘ_ᴜꜱᴇʀ_ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HY5pZD5L71ZFCELy6L5gXT" //your theme url which will be displayed on whatsapp
 global.websitex = "https://wa.me/+94740575395" //ur website to be displayed
 global.botscript = 'https://wa.me/+94740575395' //script link
